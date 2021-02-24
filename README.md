@@ -28,9 +28,9 @@
 ## Modalidad
 El workshop está pensado para ser completado en 20 días de trabajo.
 
-* *Lunes*: Correción de proyectos.
-* *Martes*, *Miércoles*, *Jueves*: Contenido.
-* *Viernes*: Presentación de nuevo proyecto.
+* **Lunes**: Correción de proyectos.
+* **Martes**, **Miércoles**, **Jueves**: Contenido.
+* **Viernes**: Presentación de nuevo proyecto.
 
 > Todos los Lunes se *debe* presentar el proyecto para ser corregido, en caso de no hacerlo, quedará fuera del workshop.
 

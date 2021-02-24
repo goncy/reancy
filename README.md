@@ -28,11 +28,11 @@
 ## Modalidad
 El workshop está pensado para ser completado en 20 días de trabajo.
 
-*Lunes*: Correción de proyectos.
-*Martes*, *Miércoles*, *Jueves*: Contenido.
-*Viernes*: Presentación de nuevo proyecto.
+* *Lunes*: Correción de proyectos.
+* *Martes*, *Miércoles*, *Jueves*: Contenido.
+* *Viernes*: Presentación de nuevo proyecto.
 
-Todos los Lunes se *debe* presentar el proyecto para ser corregido, en caso de no hacerlo, quedará fuera del workshop.
+> Todos los Lunes se *debe* presentar el proyecto para ser corregido, en caso de no hacerlo, quedará fuera del workshop.
 
 ## Inscripción
 La inscripción sale 1000 ARS, que serán devueltos luego de completado el workshop. En caso de no completarlo, el dinero será donado a una organización decidida por quienes completen el workshop.

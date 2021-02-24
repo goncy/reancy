@@ -5,9 +5,7 @@
 </p>
 
 <h1 align="center">
-  <span>Workshop intensivo de React en 1 mes ⚡️</span>
-  <br>
-  <small style="font-size:medium">Realizado en Discord, transmitido por Twitch, by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/goncy">goncy</a>.</small>
+  Workshop intensivo de React en 1 mes ⚡️
 </h1>
 
 <br>
@@ -20,6 +18,10 @@
   <img alt="goncy" src="https://img.shields.io/twitter/follow/goncy?style=for-the-badge" />
   <img alt="Github Stars" src="https://img.shields.io/github/stars/goncy/reancy?style=for-the-badge" />
 </p>
+
+<h3 align="center">
+  Realizado en Discord, transmitido por Twitch, by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/goncy">goncy</a>.
+</h3>
 
 <br>
 

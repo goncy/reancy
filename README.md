@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">
-  Realizado en Discord, transmitido por Twitch, by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/goncy">goncy</a>.
+  Realizado en <a rel="noopener noreferrer" target="_blank" href="https://discord.gg/rAmPWU6eHg">Discord</a>, transmitido por <a rel="noopener noreferrer" target="_blank" href="https://twitch.tv/goncypozzo">Twitch</a>, by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/goncy">goncy</a>.
 </h3>
 
 <br>

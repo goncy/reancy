@@ -46,8 +46,22 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * [Fullstack Open](https://fullstackopen.com/)
 * [React2025](https://react2025.com/)
 
+### Conocimientos requeridos:
+* Conocimiento básico de JavaScript, variables, funciónes, métodos de array (filter, map, reduce), valores de retorno, argumentos, parametros, objetos, primitivos.
+* Manejo básico de consola (instalar dependencias, correr comandos, moverse entre carpetas).
+
+### Herramientas requeridas
+* NodeJS > 10
+* Editor de código (VSCode recomendado)
+
+### Conocimientos deseados
+* Bases de TypeScript (tipos, interfaces, enums).
+* Conocimiento sobre scopes.
+* Conceptos de JavaScript moderno (imports, arrow functions, destructuring, spread operator, default params).
+
 ## Cronograma
-- 00: [Intruducción](./00)
+- [Herramientas para crear un proyecto](./00-herramientas-para-crear-un-proyecto)
+- [JSX](./01-JSX)
 
 ## Licencia
 MIT © [goncy](https://github.com/goncy)

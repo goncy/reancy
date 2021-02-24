@@ -1,1 +1,0 @@
-# Introducción - Día 0.

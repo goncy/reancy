@@ -62,6 +62,8 @@ Todo el contenido va a ser basado en los siguientes recursos:
 ## Cronograma
 - [Creando un proyecto](./00-tools)
 - [JSX](./01-jsx)
+- [Estado](./02-state)
+- [Eventos](./03-events)
 
 ## Disclaimer
 Muchos de los conceptos en este workshop están sobre simplificados para hacer más fácil su comprensión. Por ende, si tu conocimiento en React es amplio, vas a notar que algunas explicaciones pueden no ser 100% acertadas.

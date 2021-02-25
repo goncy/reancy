@@ -60,10 +60,10 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * Conceptos de JavaScript moderno (imports, arrow functions, destructuring, spread operator, default params).
 
 ## Cronograma
-- [Creando un proyecto](./00-tools)
-- [JSX](./01-jsx)
-- [Estado](./02-state)
-- [Eventos](./03-events)
+00. [Creando un proyecto](./00-tools)
+01. [JSX](./01-jsx)
+02. [Estado](./02-state)
+03. [Eventos](./03-events)
 
 ## Disclaimer
 Muchos de los conceptos en este workshop están sobre simplificados para hacer más fácil su comprensión. Por ende, si tu conocimiento en React es amplio, vas a notar que algunas explicaciones pueden no ser 100% acertadas.

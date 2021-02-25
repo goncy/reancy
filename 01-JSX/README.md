@@ -1,4 +1,4 @@
-## JSX
+# JSX
 Antes de adentrarnos en JSX vamos a hacer un pequeño resumen de que o cual es la idea de usar React.
 
 * React es una librería para crear interfaces de usuario.
@@ -161,4 +161,4 @@ const App = () => {
 }
 ```
 
-[⏪ JSX](../01-JSX)
+[⏪ Herramientas para crear un proyecto](../00-tools) | [Estado ⏩](../02-state)

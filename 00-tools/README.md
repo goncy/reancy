@@ -176,4 +176,4 @@ const App = () => {
 }
 ```
 
-[⏪ Inicio](../) | [JSX ⏩](../01-JSX)
+[⏪ Inicio](../) | [JSX ⏩](../01-jsx)

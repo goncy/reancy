@@ -60,8 +60,11 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * Conceptos de JavaScript moderno (imports, arrow functions, destructuring, spread operator, default params).
 
 ## Cronograma
-- [Herramientas para crear un proyecto](./00-herramientas-para-crear-un-proyecto)
-- [JSX](./01-JSX)
+- [Creando un proyecto](./00-tools)
+- [JSX](./01-jsx)
+
+## Disclaimer
+Muchos de los conceptos en este workshop están sobre simplificados para hacer más fácil su comprensión. Por ende, si tu conocimiento en React es amplio, vas a notar que algunas explicaciones pueden no ser 100% acertadas.
 
 ## Licencia
 MIT © [goncy](https://github.com/goncy)

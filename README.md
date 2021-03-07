@@ -7,6 +7,9 @@
 <h1 align="center">
   Workshop intensivo de React en 1 mes ⚡️
 </h1>
+<h4 align="center">
+  (work in progress)
+</h4>
 
 <br>
 

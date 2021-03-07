@@ -17,8 +17,12 @@
   <a href="https://discord.gg/rAmPWU6eHg">
     <img alt="Discord" src="https://img.shields.io/discord/770339254101344256.svg?label=&logo=discord&style=for-the-badge" />
   </a>
-  <img alt="Twitch" src="https://img.shields.io/twitch/status/goncypozzo?style=for-the-badge" />
-  <img alt="goncy" src="https://img.shields.io/twitter/follow/goncy?style=for-the-badge" />
+  <a href="https://twitch.tv/goncypozzo">
+    <img alt="Twitch" src="https://img.shields.io/twitch/status/goncypozzo?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/goncy">
+    <img alt="goncy" src="https://img.shields.io/twitter/follow/goncy?style=for-the-badge" />
+  </a>
   <img alt="Github Stars" src="https://img.shields.io/github/stars/goncy/reancy?style=for-the-badge" />
 </p>
 

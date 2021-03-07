@@ -69,9 +69,9 @@ Todo el contenido va a ser basado en los siguientes recursos:
 03. [Eventos](./03-eventos)
 
 ## Extras
-1. [Recursos complementarios](./recursos-complementarios)
-2. [Mentorxs]
-  1. [Gonzalo Pozzo](./mentorxs/gonzalo-pozzo)
+0. [Recursos complementarios](./recursos-complementarios)
+1. [Mentorxs](./mentorxs)
+    0. [Gonzalo Pozzo](./mentorxs/gonzalo-pozzo)
 
 ## Disclaimer
 Muchos de los conceptos en este workshop están sobre simplificados para hacer más fácil su comprensión. Por ende, si tu conocimiento en React es amplio, vas a notar que algunas explicaciones pueden no ser 100% acertadas.

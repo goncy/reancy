@@ -52,6 +52,7 @@ Todo el contenido va a ser basado en los siguientes recursos:
 ### Conocimientos requeridos:
 * Conocimiento básico de JavaScript, variables, funciónes, métodos de array (filter, map, reduce), valores de retorno, argumentos, parametros, objetos, primitivos.
 * Manejo básico de consola (instalar dependencias, correr comandos, moverse entre carpetas).
+* Conocimiento básico de git (clone, fork, pull, commit, push).
 
 ### Herramientas requeridas
 * NodeJS > 10
@@ -67,6 +68,12 @@ Todo el contenido va a ser basado en los siguientes recursos:
 01. [JSX](./01-jsx)
 02. [Estado](./02-estado)
 03. [Eventos](./03-eventos)
+
+## Proyectos
+00. [Semana 1 - Lista de supermercado (Tradehelm)](./proyectos/semana-1)
+01. [Semana 2 - Relojes del mundo (Coderio)](./proyectos/semana-2)
+02. [Semana 3 - Juego de preguntas (Blackbox Vision)](./proyectos/semana-3)
+03. [Semana 4 - Tienda por puntos (Aerolab)](./proyectos/semana-4)
 
 ## Extras
 * [Recursos complementarios](./recursos-complementarios)

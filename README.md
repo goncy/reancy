@@ -38,7 +38,7 @@ El workshop está pensado para ser completado en 20 días de trabajo.
 > Todos los Lunes se *debe* presentar el proyecto para ser corregido, en caso de no hacerlo, quedará fuera del workshop.
 
 ## Inscripción
-La inscripción sale 1000 ARS, que serán devueltos luego de completado el workshop. En caso de no completarlo, el dinero será donado a una organización decidida por quienes completen el workshop.
+La inscripción sale 1000 ARS, que serán devueltos luego de completado el workshop. En caso de no completarlo, el dinero será donado a una organización sin fin de lucro, decidida por quienes completen el workshop.
 
 ## Comunicación
 El workshop se llevará a cabo en un canal de [Discord](https://discord.gg/rAmPWU6eHg) y a su vez transmitido por [Twitch](https://twitch.tv/goncypozzo). Los participantes podrán hacer las preguntas necesarias durante la transmisión y contarán con un canal en discord para hacer preguntas y recibir feedback de sus proyectos.

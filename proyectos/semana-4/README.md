@@ -3,10 +3,10 @@
 # Aerolab challenge
 Se debe crear una tienda de productos basada en puntos.
 
-# API
+### API
 Podés encontrar la documentación [acá](https://aerolabchallenge.docs.apiary.io/) y podés obtener una API key [acá](https://aerolab.co/coding-challenge)
 
-## Definición funcional
+### Definición funcional
 El usuario tiene una cantidad definida de puntos y cada producto vale una cantidad de puntos especifica.
 
 * Cada producto debe tener un precio en puntos de manera visible.
@@ -18,11 +18,13 @@ El usuario tiene una cantidad definida de puntos y cada producto vale una cantid
 * Un usuario no debería poder comprar un producto del cual no tiene suficientes puntos para comprar.
 * Cuando el usuario compra, la cantidad de puntos debe ser deducida automaticamente de los puntos disponibles.
 
-## Modalidad de entrega
+![Spec](./assets/spec.png "Spec")
+
+### Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
 * Link a la aplicación funcionando.
 
-## Estrellas extra
+### Estrellas extra
 * Usar TypeScript y tipar todos los elementos que usa la aplicación. ⭐️
 * El botón de comprar se muestra solo cuando el usuario interactua con un producto. ⭐️
 * El usuario puede cargar puntos tocando sus puntos disponibles en la barra de navegación. ⭐️

@@ -49,7 +49,7 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * [Fullstack Open](https://fullstackopen.com/)
 * [React2025](https://react2025.com/)
 
-### Conocimientos requeridos:
+### Conocimientos requeridos
 * Conocimiento básico de JavaScript, variables, funciónes, métodos de array (filter, map, reduce), valores de retorno, argumentos, parametros, objetos, primitivos.
 * Manejo básico de consola (instalar dependencias, correr comandos, moverse entre carpetas).
 * Conocimiento básico de git (clone, fork, pull, commit, push).

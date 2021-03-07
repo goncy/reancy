@@ -161,4 +161,4 @@ const App = () => {
 }
 ```
 
-[⏪ Herramientas para crear un proyecto](../00-tools) | [Estado ⏩](../02-state)
+[⏪ Herramientas para crear un proyecto](../00-herramientas) | [Estado ⏩](../02-estado)

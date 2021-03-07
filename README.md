@@ -63,10 +63,15 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * Conceptos de JavaScript moderno (imports, arrow functions, destructuring, spread operator, default params).
 
 ## Cronograma
-00. [Creando un proyecto](./00-tools)
+00. [Creando un proyecto](./00-herramientas)
 01. [JSX](./01-jsx)
-02. [Estado](./02-state)
-03. [Eventos](./03-events)
+02. [Estado](./02-estado)
+03. [Eventos](./03-eventos)
+
+## Extras
+1. [Recursos complementarios](./recursos-complementarios)
+2. [Mentorxs]
+  1. [Gonzalo Pozzo](./mentorxs/gonzalo-pozzo)
 
 ## Disclaimer
 Muchos de los conceptos en este workshop están sobre simplificados para hacer más fácil su comprensión. Por ende, si tu conocimiento en React es amplio, vas a notar que algunas explicaciones pueden no ser 100% acertadas.

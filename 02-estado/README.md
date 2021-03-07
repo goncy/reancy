@@ -80,4 +80,4 @@ const App = () => {
 
 Nuestro componente se vuelve a renderizar, por ende el `setTimeout` se vuelve a setear! Vuelve a setear nuestro estado después de un segundo y esto se repite infinitamente.
 
-[⏪ JSX](../01-jsx) | [Eventos ⏩](../03-events)
+[⏪ JSX](../01-jsx) | [Eventos ⏩](../03-eventos)

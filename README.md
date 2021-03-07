@@ -64,16 +64,16 @@ Todo el contenido va a ser basado en los siguientes recursos:
 * Conceptos de JavaScript moderno (imports, arrow functions, destructuring, spread operator, default params).
 
 ## Cronograma
-00. [Creando un proyecto](./00-herramientas)
-01. [JSX](./01-jsx)
-02. [Estado](./02-estado)
-03. [Eventos](./03-eventos)
+* [Creando un proyecto](./00-herramientas)
+* [JSX](./01-jsx)
+* [Estado](./02-estado)
+* [Eventos](./03-eventos)
 
 ## Proyectos
-00. [Semana 1 - Lista de supermercado (Tradehelm)](./proyectos/semana-1)
-01. [Semana 2 - Relojes del mundo (Coderio)](./proyectos/semana-2)
-02. [Semana 3 - Juego de preguntas (Blackbox Vision)](./proyectos/semana-3)
-03. [Semana 4 - Tienda por puntos (Aerolab)](./proyectos/semana-4)
+* [Semana 1 - Lista de supermercado (Tradehelm)](./proyectos/semana-1)
+* [Semana 2 - Relojes del mundo (Coderio)](./proyectos/semana-2)
+* [Semana 3 - Juego de preguntas (Blackbox Vision)](./proyectos/semana-3)
+* [Semana 4 - Tienda por puntos (Aerolab)](./proyectos/semana-4)
 
 ## Extras
 * [Recursos complementarios](./recursos-complementarios)
